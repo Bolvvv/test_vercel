@@ -1,0 +1,6 @@
+{
+    "version":2,
+    "routes":[
+        {"src":"/{.*}", "dest":"https://www.notion.so/Bolvvv-403b74babe234d2d9617141c05ddd8b5"}
+    ]
+}
